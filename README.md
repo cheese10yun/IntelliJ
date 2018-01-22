@@ -6,3 +6,7 @@
 
 ## Plugin
 1. [인텔리제이로 Builder Pattern 쉽게 구현하기](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/builder-pattern.md)
+
+## 일반
+
+1. [문자열 팁]()
