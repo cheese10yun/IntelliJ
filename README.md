@@ -9,4 +9,4 @@
 
 ## 일반
 
-1. [문자열 팁]()
+1. [문자열 팁](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
