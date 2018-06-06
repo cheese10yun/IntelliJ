@@ -9,3 +9,4 @@ IntelliJ의 다양한 사용법을 지속적으로 정리 예정입니다. 상�
 * [Live Template](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/live-template.md)
 * [Todo 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/intellij-todo.md)
 * [Git 활용법](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/git.md)
+* [다국어 messages.properties](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/messages-properties.md)
