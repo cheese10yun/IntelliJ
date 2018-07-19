@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/cheese10yun/github-project-management.svg)](https://github.com/cheese10yun/IntelliJ)
 # IntelliJ 사용법
 
 IntelliJ의 다양한 사용법을 지속적으로 정리 예정입니다. 상단의 Start, Watching을 누르시면 구독 받을 수 있습니다
