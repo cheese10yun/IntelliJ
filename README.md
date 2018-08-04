@@ -8,6 +8,7 @@ IntelliJ의 다양한 사용법을 지속적으로 정리 예정입니다. 상�
 * [리팩토링](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/refactoring.md)
 * [Live Template](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/live-template.md)
 * [Todo 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/intellij-todo.md)
-* [Git 활용법](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/git.md)
+* Git 활용법
+    * [기초: commit, push, pull, stash, unstash ..](https://github.com/cheese10yun/IntelliJ/blob/master/git/base.md)
 * [다국어 messages.properties](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/messages-properties.md)
 * [Github 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/github/기본사용법.md)
