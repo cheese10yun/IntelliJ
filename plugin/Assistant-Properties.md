@@ -13,6 +13,7 @@
 
 또 Properties 속성이 코드에 바인딩 되는지 확인 할 수 있어 아주 유용합니다.
 
+
 ## Properties 
 ```yml
 sample:
