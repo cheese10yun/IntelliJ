@@ -11,5 +11,6 @@
 * [Todo 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/intellij-todo.md)
 * Git 활용법
     * [기초: commit, push, pull, stash, unstash ..](https://github.com/cheese10yun/IntelliJ/blob/master/git/base.md)
+    * [Rest](https://github.com/cheese10yun/IntelliJ/blob/master/git/rest.md)
 * [다국어 messages.properties](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/messages-properties.md)
 * [Github 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/github/기본사용법.md)
