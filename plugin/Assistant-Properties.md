@@ -2,13 +2,13 @@
 
 
 <p align="center">
-    <img src = "https://i.imgur.com/X6giEx5.gif"> 
+    <img src = "https://i.imgur.com/X6giEx5.gif"/> 
 </p>
 
 위 그림처럼 유자가 추가한 properties 속성들도 자동 완성을 지원합니다.
 
 <p align="center">
-    <img src = "https://i.imgur.com/AmkyrnX.gif"> 
+    <img src = "https://i.imgur.com/AmkyrnX.gif"/> 
 </p>
 
 또 Properties 속성이 코드에 바인딩 되는지 확인 할 수 있어 아주 유용합니다.
@@ -41,7 +41,7 @@ Properties 속성값과 바인딩 될 객체입니다.
 ## Plugin 추가
 
 <p align="center">
-    <img src = "https://i.imgur.com/rVX7XJz.png"> 
+    <img src = "https://i.imgur.com/rVX7XJz.png"/> 
 </p>
 
 **대부분 이미 설치가 되어있을 겁니다.**
@@ -68,7 +68,7 @@ dependencies {
 ## Intellij 설정
 
 <p align="center">
-    <img src = "https://i.imgur.com/Gojvv1c.png"> 
+    <img src = "https://i.imgur.com/Gojvv1c.png"/> 
 </p>
 
 `Settings > Build, Execution & Deployment > Compiler > Annotation Processors` 에서 `Enable annotation processing`를 체크
