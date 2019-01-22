@@ -19,10 +19,10 @@ date: 2018-04-03 00:00:00
 ![](https://i.imgur.com/6xFlHcv.png)
 
 * Diff : 변경 이력이 있는 모든 파일에 대해서 Diff 기능을 제공합니다. Commit을 하기 전에 자신이 변경한 모든 파일에 대해서 한 번 꼼꼼하게 읽어 보는 습관을 갖는 것이 실수를 줄이는 가장 효율적인 방법이라고 생각합니다.
-* Before Commit : **인텔리제이로 커밋을 했을 경우 얻을 수 있는 최고의 장점이라고 생각합니다. **간단하게 다루고 이 기능은 추후 포스팅을 통해서 다시 한번 다루겠습니다.
-    * Check TODO:  //TODO 메시지가 남아 있을 경우 사용자에게 해당 TODO가 남아 있다고 알려줍니다.
-    * Optimize imports : 사용하지 않은 imports를 제거해 줍니다.
-    * Reformat Code : 인텔리제이에서 설정한 코드스타일로 변경 해줍니다.
+* Before Commit : **인텔리제이로 커밋을 했을 경우 얻을 수 있는 최고의 장점이라고 생각합니다.** 간단하게 다루고 이 기능은 추후 포스팅을 통해서 다시 한번 다루겠습니다.
+  * Check TODO:  //TODO 메시지가 남아 있을 경우 사용자에게 해당 TODO가 남아 있다고 알려줍니다.
+  * Optimize imports : 사용하지 않은 imports를 제거해 줍니다.
+  * Reformat Code : 인텔리제이에서 설정한 코드스타일로 변경 해줍니다.
 
 ## Push
 ![](https://i.imgur.com/TzF1dNk.png)
