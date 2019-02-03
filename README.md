@@ -17,3 +17,4 @@
 * [Properties 자동완성 기능](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Assistant-Properties.md)
 * 추천 Plugin
   * [Spring Assistant - Properties 자동완성](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Spring-Assistant.md)
+* [Null Safe 설정](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/null-safe.md)
