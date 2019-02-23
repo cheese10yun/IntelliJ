@@ -15,5 +15,6 @@
 * [다국어 messages.properties](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/messages-properties.md)
 * [Github 사용법](https://github.com/cheese10yun/IntelliJ/blob/master/github/기본사용법.md)
 * [Properties 자동완성 기능](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Assistant-Properties.md)
+* [특정 Import 제외하기](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/import-exclude.md)
 * 추천 Plugin
   * [Spring Assistant - Properties 자동완성](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Spring-Assistant.md)
