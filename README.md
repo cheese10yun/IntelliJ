@@ -18,3 +18,4 @@
 * [특정 Import 제외하기](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/import-exclude.md)
 * 추천 Plugin
   * [Spring Assistant - Properties 자동완성](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Spring-Assistant.md)
+* [Null Safe 설정](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/null-safe.md)
