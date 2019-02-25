@@ -56,6 +56,20 @@ Properties 속성값과 바인딩 될 객체입니다.
 
 ### gradle
 ```
+buildscript {
+  repositories {
+    jcenter()
+    mavenCentral()
+  }
+  dependencies {
+    classpath 'com.netflix.nebula:gradle-extra-configurations-plugin:3.0.3'
+  }
+}
+
+apply plugin: 'nebula.optional-base'
+
+...
+
 dependencies {
     optional "org.springframework.boot:spring-boot-configuration-processor"
 }
