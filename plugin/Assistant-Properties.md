@@ -2,7 +2,8 @@
 
 
 ![](/assets/X6giEx5.gif)
-위 그림처럼 유자가 추가한 properties 속성들도 자동 완성을 지원합니다.
+
+위 그림처럼 유저가 추가한 properties 속성들도 자동 완성을 지원합니다.
 
 
 ![](/assets/AmkyrnX.gif)
