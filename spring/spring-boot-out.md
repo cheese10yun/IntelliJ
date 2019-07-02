@@ -1,3 +1,5 @@
+## Sprong Boot Run Gradle에게 위임하기
+
 ![](../assets/out-dir.png)
 
 인텔리제이에서 Gradle Spring Boot Run을 실행시킬 경우 out 디렉토리가 생성됩니다. Gradle 플러그들이나 Task 작업에 추가적인 것들이 `out` 디렉토리에 반영이 되지 않습니다.
