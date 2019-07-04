@@ -1,4 +1,4 @@
-## IntelliJ Sprong Boot Run Gradle에게 위임하기
+## IntelliJ Spring Boot Run Gradle에게 위임하기
 
 ![](../assets/out-dir.png)
 
