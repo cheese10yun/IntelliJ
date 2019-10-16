@@ -19,6 +19,7 @@
 * 추천 Plugin
   * [Spring Assistant - Properties 자동완성](https://github.com/cheese10yun/IntelliJ/blob/master/plugin/Spring-Assistant.md)
 * [Null Safe 설정](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/null-safe.md)
+* [Excute Gradle Task 사용하기](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/gradle-task.md)
 * Spring
   * [Spring Boot 여러대 서버 실행하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/run-config.md)
   * [Spring Boot Run Gradle에게 위임하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/spring-boot-out.md)
