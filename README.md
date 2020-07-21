@@ -21,6 +21,8 @@
 * [Null Safe 설정](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/null-safe.md)
 * [Excute Gradle Task 사용하기](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/gradle-task.md)
 * [Visual VM Launcher IntelliJ](https://cheese10yun.github.io/intellij-visual-vm/)
+* [인텔리제이 Github Code Review](https://cheese10yun.github.io/intellij-code-review/)
+
 * Spring
   * [Spring Boot 여러대 서버 실행하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/run-config.md)
   * [Spring Boot Run Gradle에게 위임하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/spring-boot-out.md)
