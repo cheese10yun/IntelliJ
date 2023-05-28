@@ -12,7 +12,7 @@ date: 2018-06-06 00:00:00
 ---
 
 
-인텔리제이의  다국어 message properties 기능을 소개하려 합니다.
+인텔리제이의 다국어 message properties 기능을 소개하려 합니다.
 
 
 ## messages.properties 생성
