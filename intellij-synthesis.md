@@ -1,5 +1,6 @@
 # 인텔리제이 종합 
 * [ ] gradle task 
+* [ ] find action
 * [ ] 동일 문자열 변경
 * [ ] 동일한 위치 문자열 변경
 * [ ] 복사 리스트
@@ -13,8 +14,13 @@
 * [ ] Git commit, push, rebase, stash, unstash
 * [ ] plugin
   * [ ] grep
-  * [ ] 
+  * [ ] git tool box
+  * [ ] string manipulation
+  * [ ] Rainbow 
+  * [ ] Key Promoter X
 * [ ] Http Client
+
+
 
 
 ## 기존
@@ -53,3 +59,13 @@
 * [ ] Srping
     * [ ] Health
     * [ ] Mappings 
+
+
+## v플러그인
+* [ ] Grep
+* [ ] Rainbow Brackets, Rainbow Intent
+* [ ] GitToolbox
+* [ ] Key Promoter
+* [ ] Lombok
+* [ ] Translation
+* [ ] VisualVM Launcher
