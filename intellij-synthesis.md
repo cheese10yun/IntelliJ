@@ -61,7 +61,7 @@
     * [ ] Mappings 
 
 
-## v플러그인
+## 플러그인
 * [ ] Grep
 * [ ] Rainbow Brackets, Rainbow Intent
 * [ ] GitToolbox
