@@ -56,7 +56,7 @@
     * [ ] Commit, Push, Pull
     * [ ] Stash, UnStash
     * [ ] Branch, Branch Diff, Merge, Checkout
-* [ ] Srping
+* [ ] Spring
     * [ ] Health
     * [ ] Mappings 
 
