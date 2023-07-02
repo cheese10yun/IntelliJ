@@ -1,5 +1,6 @@
-[![HitCount](http://hits.dwyl.io/cheese10yun/IntelliJ.svg)](http://hits.dwyl.io/cheese10yun/IntelliJ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheese10yun%2FIntelliJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # IntelliJ 사용법
+
 
 ***IntelliJ의 다양한 사용법을 지속적으로 정리 예정입니다. 상단의 Star, Watch를 누르시면 구독 받을 수 있습니다.***
 
