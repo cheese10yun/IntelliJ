@@ -25,3 +25,4 @@
   * [Spring Boot 여러대 서버 실행하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/run-config.md)
   * [Spring Boot Run Gradle에게 위임하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/spring-boot-out.md)
   * [Spring Boot Actuator IntelliJ 활용하기](https://github.com/cheese10yun/blog-sample/tree/master/actuator?fbclid=IwAR26-tzhK16V2wGh1dt9CekOGCRkvlIfIkYfsJC5p_eF-CPeI7D4pF_jnK4#intellij-endpint)
+* [IntelliJ 기능 종합 정리](https://github.com/cheese10yun/blog-sample/blob/master/intellij-test/intellij-test/REAEMD.md) 
