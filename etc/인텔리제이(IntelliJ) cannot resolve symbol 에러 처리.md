@@ -6,25 +6,24 @@
 
 ### Project 설정
 
-![](../image/Project-Structure.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/Project-Structure.png)
 
 Project Structure 설정에서 SDK, Language Level을 동일한 버전으로 설정합니다.
 
 ### Modules 설정
 
-![](../image/module.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/module.png)
 
 Module SDK 버전도 동일한 버전으로 설정합니다.
 
 ## Gradle 설정
 
-![](../image/gradle.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/gradle.png)
 
 Gradle JVM SDK 버전도 동일하게 설정합니다.
 
 ## Java Compiler 설정
 
-![](../image/java-compile.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/java-compile.png)
 
 Java Compiler 설정도 동일한 버전으로 설정합니다.
-
