@@ -27,3 +27,4 @@
   * [Spring Boot Actuator IntelliJ 활용하기](https://github.com/cheese10yun/blog-sample/tree/master/actuator?fbclid=IwAR26-tzhK16V2wGh1dt9CekOGCRkvlIfIkYfsJC5p_eF-CPeI7D4pF_jnK4#intellij-endpint)
 * [IntelliJ 기능 종합 정리](https://github.com/cheese10yun/blog-sample/blob/master/intellij-test/intellij-test/REAEMD.md) 
 * [인텔리제이(IntelliJ) cannot resolve symbol 에러 처리](https://github.com/cheese10yun/IntelliJ/blob/master/etc/%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4(IntelliJ)%20cannot%20resolve%20symbol%20%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
+* [IntelliJ 각종 Tip](https://github.com/cheese10yun/IntelliJ/blob/master/nomal/tip.md)
