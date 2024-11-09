@@ -36,15 +36,15 @@ Live Template에서 TODO를 설정 하여 코드 작성시 자동으로 주석�
 
 ## Commit 새창으로 보기
 
-![](/image/commit-001.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/commit-001.png)
 
 * 업데이트 이후 인텔리제이 commit시 프로젝트 뷰쪽에서 별도의 영역으로 표시, 이 설정이 싫은 경우 아래와 같이 수정 가능
 
 
-![](/image/commit-002.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/commit-002.png)
 
 * `Find Action` -> `Use non-modal commit interface` -> `Off` 설정
 
-![](/image/commit-003.png)
+![](https://raw.githubusercontent.com/cheese10yun/IntelliJ/master/image/commit-003.png)
 
 * 다시 commit시 프로젝트 뷰에 표시됨을 확인 가능
